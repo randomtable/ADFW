@@ -16,7 +16,7 @@ You have to modify this policy to fit your organizational requirements, for exam
 - Despite the rule above, WMI and management, RDP and other communications are not allowed (you have to run "gpupdate /force" on the host to update policies, for example)
 - The Lab Domain is "dominio.it"
 
-I suggest to create a lab and test/modify this policy before apply it on production systems.
+I suggest to create a lab and review, test and modify this policy before apply it on production systems.
 
 I will update this project with a more complete wiki and some examples.
 
